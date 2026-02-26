@@ -1,0 +1,11 @@
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# Mac system files
+.DS_Store
+
+# VS Code settings
+.vscode/
